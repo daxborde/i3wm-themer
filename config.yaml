@@ -1,0 +1,5 @@
+i3-config: /home/dax/.config/i3/config
+polybar-config: /home/dax/.config/polybar/config
+xresources: /home/dax/.Xresources
+nitrogen-config: /home/dax/.config/nitrogen/bg-saved.cfg
+wallpaper-path: /home/dax/.config/nitrogen/
